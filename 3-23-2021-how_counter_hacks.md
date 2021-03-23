@@ -28,6 +28,6 @@ No plans for adding them in yet tho.
 The hack is oudated and has been fore roughly 8 months. No plans on a re-rwrite but I can make a custom client for gats that would be minimal and fast.
 Currently working on auto-shield.
 <br>
-~~Screw reddit making me have to rewrite this because "An error occurred", x5~~
+<strike>Screw reddit making me have to rewrite this because "An error occurred", x5</strike>
 <br>
 Reddit sucks.
