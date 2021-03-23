@@ -27,7 +27,7 @@ The prediction factor has some work to be done on. First, I need to make it disa
 
 <br>No plans for adding them in yet tho.<br>
 
-The hack is oudated and has been fore roughly 8 months. No plans on a re-rwrite but I can make a custom client for gats that would be minimal and fast.<br>
+The hack is oudated and has been for roughly 8 months. No plans on a re-rwrite but I can make a custom client for gats that would be minimal and fast.<br>
 
 Currently working on auto-shield.
 <br>
